@@ -90,11 +90,13 @@ span{
     margin-top: .5rem;
 }
 .home-img img{
-    width: 25vw;
+    width: 35vw;
     animation: floatImage 4s ease-in-out infinite;
     border-radius: 150rem;
     border: 1.2rem solid #f7f8fa ;
     background-color: #b35340;
+    padding-left: 3rem;
+    padding-top: .5rem;
 
 }
 @keyframes floatImage {
